@@ -1,6 +1,6 @@
 # MUPL interpreter using Racket
 This project has to do with MUPL (Made Up Programming Language). MUPL programs
-are written directly in Racket by using the constructors defined by the structs defined at the beginning of `MUPL_interpreter.rkt`. 
+are written directly in Racket by using the constructors defined by the structs defined at the beginning of `MUPL_interpreter.rkt`. The project's goal is to learn about interpreters, language design, recursion, lexical scope, etc.
 ## MUPL syntax
 
 * If `s` is a Racket string, then `(var s)` is a MUPL expression (a variable use).
